@@ -132,4 +132,5 @@ if (ret != ESP_OK) {
 ```
 
 ## 源码仓库 
-- [SHTC3 温湿度检测](https://gitee.com/lkj_2279840148/esp32-s3-rlcd-4.2-learning/tree/master/01_i2c_shtc3_simple)
+- Gitee:[SHTC3 温湿度检测](https://gitee.com/lkj_2279840148/esp32-s3-rlcd-4.2-learning/tree/master/01_i2c_shtc3_simple)
+- GitHub:[SHTC3 温湿度检测](https://github.com/shengsan11111/esp32-s3-rlcd-learning/tree/master/01_i2c_shtc3_simple)
